@@ -30,3 +30,7 @@ An interactive Netflix-style movie recommendation app built with **Streamlit**, 
 - **Data Engineering**: Data preprocessing, feature extraction, transformation
 
 ---
+
+<img width="1242" height="682" alt="1" src="https://github.com/user-attachments/assets/8cc4fc4d-8501-4065-8eab-284052d36944" />
+<img width="1037" height="387" alt="2" src="https://github.com/user-attachments/assets/ebc298ad-d1a9-4161-a748-698443058c8e" />
+
